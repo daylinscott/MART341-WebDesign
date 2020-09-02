@@ -1,0 +1,12 @@
+1. How is the world wide web different than the internet?
+The internet is compiled of networks while the "world wide web" is a collection of information that is accessed through the internet.
+2. Briefly describe how the internet works.
+Essentially "packets" of information are directed towards a computer via an IP address. Then whenever information is requested, the data is retrieved from a larger database and sent back to the specific computer. 
+3. What is a directory, and what is its relationship to files?
+A directory is like a filing system that houses your folders containing different assets and information in an organized way.
+4. How will VCS benefit you?
+VCS is the management of changes of information. This will benefit me by assisting in keeping track of the changes made in in a series of code, as it can often become confusing with the large ammount of changes being made.
+5. Take a screenshot anytime while working on your homework.
+6. What is your favorite kind of art?
+My favorite type of art is film, though it is my least practiced medium, I love that it stimulates so many of the human senses and can be used to create an entirely new experience for an audience.
+7. Rename this screenshot using proper naming conventions, and upload it to your assignment02 directory
