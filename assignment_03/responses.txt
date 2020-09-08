@@ -1,0 +1,17 @@
+1. Provide three websites that you enjoy visiting?
+Three websites that I enjoy visiting are the photographer Ryan McGinley's website,
+the company that I am interning for, Chemistry Creative, and Glossier's website,
+where I frequently browse when I am in one of my online shopping moods.
+
+2. What is the relationship between an IP address and the DNS?
+DNS stands for domain name system, it is a system that takes the names of websites
+and puts them with the corresponding IP address which is used to connect your computer
+to the correct destination (website) on the internet.
+
+3. What is a cookie?
+
+4. List the three essential parts of a URL.
+5. In your README.md, use Markdown and add the title
+"Assignment 3" with a heading 1. Underneath, add your name as
+a heading 2.
+6. Add a list of 3 things you've learned so far
