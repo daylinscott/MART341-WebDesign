@@ -1,6 +1,6 @@
 
 body{
-    background-color: pink;
+    background-color: white;
 }
 
 div{
@@ -45,7 +45,7 @@ header {
     position: fixed;
     top: 0px;
     left: 0px;
-    background-color: #add8e6;
+    background-color: #1C75BC;
     font-family: Verdana, Arial, Tahoma;
     text-transform: uppercase;
     margin-top: 0;
@@ -60,7 +60,7 @@ header {
     margin: 1em .2em;
     min-width: 6em;
     text-align: center;
-    background-color:#add8e6;
+    background-color:#1C75BC;
     padding: 0.5em 1em;
 }
 
@@ -71,7 +71,7 @@ header {
 }
 
 .menu-item:hover {
-    background-color: #3895D3;
+    background-color: #27AAE1;
 
 }
 
@@ -83,9 +83,9 @@ header {
 .dropdown-content {
     display: none;
     position: absolute;
-    border: 1px solid #add8e6;
+    border: 1px solid #F48FB4;
     margin: 0.5em 0 0 -1em;
-    color: #add8e6;
+    color: #27AAE1;
     background-color: #fff;
     z-index: 1;
 }
@@ -108,32 +108,39 @@ header {
 
 .dropdown-item:hover, .dropdown-item:hover a {
     color: black;
-    background-color: #add8e6;
+    background-color: #F48FB4;
 }
 
 .mainimage{
     float: left;
-    content:url("../images/pinkbear.jpg");
+    content:url("../images/logo.png");
+    width: 70px;
+    height: 60px;
+    margin-top: 0px;
 
 }
 
 
-@media only screen and (min-width: 600px) {
+
+@media only screen and (min-width: 60px) {
     .mainimage{
-        content:url("../images/pinkbear.jpg");
+        content:url("../images/logo.png");
     }
 }
 
+
 .secondimage{
     float:left;
-    content:url("../images/bluebear.jpg");
+    content:url("../images/self.Jpg");
+    width: 650px;
+    height: 450px;
 }
 
 
 @media only screen and (min-width: 600px) {
     .secondimage{
         float:left;
-        content:url("../images/bluebear.jpg");
+        content:url("../images/self.Jpg");
     }
 }
 
@@ -159,9 +166,9 @@ header {
    width: 50%;
    min-width: 650px;
    max-width: 650px;
-   height: 250px;
-   background-color: #add8e6;
-   color: #fff;
+   height: 350px;
+   background-color: #F48FB4;
+   color: black;
    border: 10px solid #fff;
    border-style: double;
    width: 80%;
@@ -169,3 +176,16 @@ header {
    margin: auto;
 
  }
+ .container2 {
+   float: right;
+    width: 50%;
+    min-width: 400px;
+    max-width: 400px;
+    height: 450px;
+    background-color: #F48FB4;
+    color: black;
+    border: 10px solid #fff;
+    border-style: double;
+    width: 80%;
+    padding: .5em;
+    margin: auto;
